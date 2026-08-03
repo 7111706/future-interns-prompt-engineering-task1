@@ -1,0 +1,9 @@
+# Reusable AI Website Copy Prompt Framework
+
+This is a variable-driven prompt system.
+
+## STEP 0 — Business Input Variables
+
+{{BUSINESS_NAME}}
+{{BUSINESS_TYPE}}
+...
